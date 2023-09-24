@@ -1,0 +1,57 @@
+body{
+  margin: 0;
+  padding: 0;
+  min-width: 100vh;
+  box-sizing: border-box;
+}
+
+
+.col2{
+background-color: gray;
+color: white;
+}
+.texto_caja{
+font-size: 10px;
+}
+.form{
+  
+display: flex;
+justify-content: center;
+gap: 20px;
+  
+  
+margin: 20px;
+}
+.size{
+  width: 33%;
+  
+}
+.area{
+  
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+.form_text{
+  margin-top: 30px;
+  text-align: center;
+}
+.footer{
+  background-color: #1C3A49;
+  text-decoration: none;
+  color: white;
+}
+.caption-top{
+
+  text-align: justify;
+  
+top: 20%;
+
+}
+
+.textCar{
+  text-align: right;
+  width: 45%;
+  position: absolute;
+  right: -60px;
+}
