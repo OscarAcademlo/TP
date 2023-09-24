@@ -30,7 +30,7 @@ margin: 20px;
   
   display: flex;
   justify-content: center;
-
+  margin-bottom: 30px;
 }
 .form_text{
   margin-top: 30px;
@@ -41,4 +41,17 @@ margin: 20px;
   text-decoration: none;
   color: white;
 }
+.caption-top{
 
+  text-align: justify;
+  
+top: 20%;
+
+}
+
+.textCar{
+  text-align: right;
+  width: 45%;
+  position: absolute;
+  right: -60px;
+}
